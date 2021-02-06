@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://ayushpa.tk</loc>
+	<lastmod>2021-02-02</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/maccc.png</image:loc>
+	<image:title>maccc</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/maccc.png</image:loc>
+	<image:title>composition 5</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://ayushpa.tk/work/</loc>
+	<lastmod>2021-02-02</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/aww-board%203%20copy.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/ezgif-2-5cdbcc12a0ef.gif</image:loc>
+	<image:title>You never-signed-up-to-the-newsletter</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/ezgif-2-48c8eb3ab21b.gif</image:loc>
+	<image:title>ezgif 2-48c8eb3ab21b</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/Light-brown-in-Basic11%20copy.png</image:loc>
+	<image:title>Light brown-in-Basic11</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://ayushpa.tk/lets-talk/</loc>
+	<lastmod>2021-02-02</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://ayushpa.tk/writing/</loc>
+	<lastmod>2021-02-02</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://ayushpa.tk/live-chat/</loc>
+	<lastmod>2021-02-02</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://ayushpa.tk/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
