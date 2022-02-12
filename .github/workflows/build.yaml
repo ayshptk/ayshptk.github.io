@@ -16,10 +16,10 @@ jobs:
         run: python build.py
       - name: Commit files
         run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "52833999+aryxns@users.noreply.github.com"
+          git config --local user.name "aryxns"
           git add -A
-          git commit -m "Build Docs"
+          git commit -m "building docs for ayush"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
