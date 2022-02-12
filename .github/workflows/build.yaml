@@ -13,7 +13,7 @@ jobs:
       - name: install dep
         run: pip install markdown
       - name: build
-        run: python .github/workflows/build.py
+        run: python build.py
       - name: Commit files
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
