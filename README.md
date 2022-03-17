@@ -2,4 +2,4 @@ my gh pages site, uses [this handy script](https://gist.github.com/ayshptk/27602
 
 simply clone the repo and add your markdown files to the root of the repo.
 
-make sure you set the `TOKEN` variable as your gh personal token to the action secrets and change the page directory to `docs` in repo settings!
+make sure you set the `TOKEN` variable as your github personal token to the action secrets and change the page directory to `docs` in repo settings!
