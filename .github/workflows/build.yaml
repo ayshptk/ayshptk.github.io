@@ -16,8 +16,8 @@ jobs:
         run: python build.py
       - name: Commit files
         run: |
-          git config --local user.email "patrick@collison.ie"
-          git config --local user.name "pc"
+          git config --local user.email "nmambavi@gmail.com"
+          git config --local user.name "namanambavi"
           git add -A
           git commit -m "Build Docs"
       - name: Push changes
